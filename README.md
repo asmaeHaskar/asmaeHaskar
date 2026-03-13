@@ -1,132 +1,193 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,80,140,200,255&height=240&section=header&text=Asmae%20Hasker&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Automation&descAlignY=62&descSize=22&font=Orbitron">
-    <img alt="header glassy" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=200,220,240,180,100&height=240&section=header&text=Asmae%20Hasker&fontSize=54&fontColor=0f172a&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Automation&descAlignY=62&descSize=22&font=Orbitron">
-  </picture>
 
-  <br/><br/>
+<!-- Animated Header with gradient mesh -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asmae%20Hasker&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Maker&descAlignY=60&descSize=18&descColor=c4b5fd" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=800&color=7C3AED&center=true&vCenter=true&width=620&height=70&lines=Hey%20there%2C%20I'm%20Asmae%20✨;Junior%20Full-Stack%20%26%20AI%20Maker;Flutter%20%2B%20Spring%20Boot%20%2B%20Groq;PFE%20Internship%20→%20April%202026" alt="typing neon" />
+<br/>
 
-  <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Building+AI-Powered+Experiences+%E2%9C%A8;Flutter+%2B+Spring+Boot+Enthusiast+%F0%9F%9A%80;Open+to+PFE+Internship+%E2%80%94+April+2026+%F0%9F%8C%9F" alt="Typing SVG" />
 
-  <img src="https://komarev.com/ghpvc/?username=asmaeHaskar&label=Profile%20views&color=7c3aed&style=flat-square&labelColor=1e293b" alt="views" />
+<br/><br/>
 
-  <br/><br/>
+<!-- Glassmorphism-style badges row -->
+![](https://img.shields.io/badge/-Settat%2C%20Morocco-7c3aed?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
+![](https://img.shields.io/badge/-FST%20Settat-a78bfa?style=flat-square&logo=graduation-cap&logoColor=white&labelColor=1e1b4b)
+![](https://img.shields.io/badge/Status-Open%20to%20Internship-4ade80?style=flat-square&logo=briefcase&logoColor=white&labelColor=064e3b)
+![](https://komarev.com/ghpvc/?username=asmaeHaskar&color=7c3aed&style=flat-square&label=Visitors)
 
-  <img src="https://github-profile-trophy.vercel.app/?username=asmaeHaskar&theme=radical&column=7&margin-w=8&margin-h=8&no-frame=true&titleColor=7c3aed&textColor=a5b4fc&iconColor=c084fc&bgColor=0f172a" alt="trophies neon" />
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="55%">
+
+### 🌙 About Me
+
+```yaml
+name: Asmae Hasker
+role: Junior Full-Stack Developer
+location: Settat, Morocco 🇲🇦
+education:
+  degree: Licence ST – Transformation Digitale & SI
+  school: FST Settat
+  year: 2025–2026
+
+available_for: PFE Internship (April 2026)
+
+currently_building:
+  - SmartWallet (Flutter + Spring Boot)
+  - AI Recruitment Agent (n8n + Groq)
+
+passions:
+  - Clean Architecture
+  - Beautiful UIs
+  - AI Automation
+  - Open Source
+```
+
+</td>
+<td width="45%">
+
+### ⚡ Quick Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=asmaeHaskar&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&bg_color=0d0d1a&ring_color=7c3aed" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaeHaskar&theme=transparent&hide_border=true&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&background=0d0d1a" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
 
-  <div style="background: rgba(30, 41, 59, 0.4); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(124, 58, 237, 0.25); border-radius: 16px; padding: 28px 20px; margin: 0 auto; max-width: 920px; box-shadow: 0 8px 32px rgba(0,0,0,0.37);">
+**Mobile & Frontend**
 
-    ### 🌙 About Me — Glass Mode Activated
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-    **Full-Stack Dev** • **Mobile-first** • **AI Automations**  
-    🎓 Licence ST – Transformation Digitale & SI @ FST Settat (2025–2026)  
-    🚀 Open to **PFE internship — April 2026**  
+**Backend & Database**
 
-    Currently crafting:  
-    • **SmartWallet** → Flutter + Spring Boot + Docker + clean arch  
-    • AI agents → n8n + Groq (Llama 3.1 / Mixtral) + Telegram  
-    • Beautiful, performant & automated experiences  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-    📍 Settat, Morocco
+**AI & DevOps**
 
-  </div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-FF4B4B?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<br/>
-
-### ⚡ Tech Stack — Neon Glass Edition
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,spring,nodejs,react,ts,postgres,mysql,mongodb,docker,git,github,figma,vscode&perline=7" alt="skills icons" />
-</div>
-
-<br/>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0f172a&color=7c3aed" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0f172a&color=7c3aed" />
-  <img src="https://img.shields.io/badge/Groq-FF3366?style=for-the-badge&logoColor=white&labelColor=0f172a&color=7c3aed" />
-  <img src="https://img.shields.io/badge/n8n-00E676?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0f172a&color=7c3aed" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a&color=7c3aed" />
-  <img src="https://img.shields.io/badge/Neon%20UI-7C3AED?style=for-the-badge&logoColor=white&labelColor=0f172a" />
 </div>
 
 ---
 
-### 🌌 Featured Projects — Glass Cards
+### 🔥 Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; margin: 32px 0;">
+<div align="center">
 
-  <div style="background: rgba(30, 41, 59, 0.35); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border: 1px solid rgba(124, 58, 237, 0.3); border-radius: 20px; padding: 24px; width: 320px; box-shadow: 0 12px 40px rgba(0,0,0,0.4); transition: transform 0.3s;">
-    <h4>💰 SmartWallet</h4>
-    <p>Cross-platform finance manager (PFE 2026)</p>
-    <p><strong>Stack:</strong> Flutter • Spring Boot • Docker • PostgreSQL</p>
-  </div>
+<table>
+<tr>
 
-  <div style="background: rgba(30, 41, 59, 0.35); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border: 1px solid rgba(124, 58, 237, 0.3); border-radius: 20px; padding: 24px; width: 320px; box-shadow: 0 12px 40px rgba(0,0,0,0.4); transition: transform 0.3s;">
-    <h4>🤖 AI Recruitment Agent</h4>
-    <p>Automates applications + cover letters</p>
-    <p><strong>Stack:</strong> n8n • Groq (Llama 3) • Telegram API</p>
-  </div>
+<td align="center" width="33%">
 
-  <div style="background: rgba(30, 41, 59, 0.35); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border: 1px solid rgba(124, 58, 237, 0.3); border-radius: 20px; padding: 24px; width: 320px; box-shadow: 0 12px 40px rgba(0,0,0,0.4); transition: transform 0.3s;">
-    <h4>🎓 UniqueLearn</h4>
-    <p>Training & enrollment platform</p>
-    <p><strong>Stack:</strong> PHP • JavaScript • MySQL</p>
-  </div>
+### 💰 SmartWallet
+**`My PFE Project`**
+
+> Modern cross-platform personal finance tracker with real-time analytics and smart budgeting
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI Recruitment Agent
+**`AI Automation`**
+
+> Autonomous agent that automates job applications, parses JDs, and generates personalized cover letters
+
+![n8n](https://img.shields.io/badge/-n8n-FF6B00?style=flat-square&logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq%20LLaMA%203-FF4B4B?style=flat-square&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎓 UniqueLearn
+**`Full-Stack Platform`**
+
+> Complete e-learning platform with course management, enrollment tracking, and user dashboards
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-→ All projects → <a href="https://github.com/asmaeHaskar?tab=repositories">Repositories</a>
 
 ---
 
-### 📈 Live Activity — Neon Pulse
+### 📈 Activity & Languages
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asmaeHaskar&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=7c3aed&text_color=a5b4fc&icon_color=c084fc&border_radius=16" />
-    <img src="https://github-readme-stats.vercel.app/api?username=asmaeHaskar&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=7c3aed&text_color=475569&icon_color=7c3aed&border_radius=16" alt="stats glassy" />
-  </picture>
-  &nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asmaeHaskar&theme=radical&hide_border=true&background=0f172a&stroke=7c3aed&ring=7c3aed&fire=c084fc&currStreakNum=a5b4fc&sideNums=a5b4fc&currStreakLabel=7c3aed&sideLabels=7c3aed&border_radius=16" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaeHaskar&theme=default&hide_border=true&background=f8fafc&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakNum=475569&sideNums=475569&currStreakLabel=7c3aed&sideLabels=7c3aed&border_radius=16" alt="streak" />
-  </picture>
-</div>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmaeHaskar&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=7c3aed&hide_border=true" width="90%" alt="Activity Graph"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmaeHaskar&theme=react-dark&hide_border=true&bg_color=0f172a&color=7c3aed&line=c084fc&point=a5b4fc&area=true&area_color=7c3aed55" alt="activity graph neon" width="85%" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaeHaskar&layout=donut&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&hide_border=true&langs_count=8" width="38%" />
+
 </div>
 
 ---
 
-### 🌐 Connect — Let's Collab
+### 🏆 Trophies
 
-<div align="center" style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/asmae-hasker">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hasker.asm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Gmail" />
-  </a>
-  <a href="https://github.com/asmaeHaskar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="GitHub" />
-  </a>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asmaeHaskar&theme=onestar&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" width="100%" />
+
 </div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmae-hasker)
+[![Gmail](https://img.shields.io/badge/Gmail-hasker.asm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasker.asm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-asmaeHaskar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmaeHaskar)
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=100,160,220,180,120&height=120&section=footer&animation=twinkling" alt="footer glassy wave" />
+> 💼 **Available for PFE internship starting April 2026**  
+> I'm passionate about building beautiful, AI-powered products that make a real difference.  
+> Let's create something amazing together! ✨
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
 </div>
