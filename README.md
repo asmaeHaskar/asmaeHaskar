@@ -161,15 +161,7 @@ passions:
 
 ---
 
-### 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asmaeHaskar&theme=onestar&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" width="100%" />
-
-</div>
-
----
 
 ### 🌐 Let's Connect
 
