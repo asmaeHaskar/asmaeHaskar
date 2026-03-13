@@ -1,86 +1,125 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,12,25,40,60&height=220&section=header&text=Asmae%20Hasker&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Maker&descAlignY=58&descSize=20&font=Roboto">
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,80,140,200,240&height=220&section=header&text=Asmae%20Hasker&fontSize=52&fontColor=0d1117&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Maker&descAlignY=58&descSize=20&font=Roboto">
+  </picture>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Asmae%20Hasker&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18)
+  <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Junior+Full+Stack+Developer;📱+Flutter+%26+Spring+Boot+Lover;🤖+Building+AI-powered+Apps;🎓+FST+Settat+—+Transformation+Digitale)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=580&height=60&lines=Junior+Full-Stack+Developer;Flutter+%26+Spring+Boot+Enthusiast;Building+AI-powered+experiences;Open+to+PFE+internship+—+April+2026" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=asmaeHaskar&label=Profile+views&color=f75c7e&style=for-the-badge" />
+  <br/>
 
+  <img src="https://komarev.com/ghpvc/?username=asmaeHaskar&label=Profile%20views&color=8b5cf6&style=flat-square&labelColor=1e293b" alt="profile views" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=asmaeHaskar&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&titleColor=8b5cf6&textColor=94a3b8&iconColor=c084fc&bgColor=0f172a" alt="trophies" />
 </div>
 
 ---
 
-## 🌸 About Me
+### 🌙 Hey, I'm Asmae ✨
 
-> 🎓 **Licence ST – Transformation Digitale & SI** @ FST Settat *(2025–2026)*
-> 
-> 💼 Available for **PFE internship from April 2026**
+**`Full-Stack` • `Mobile-first` • `AI-curious` developer** from Settat, Morocco  
+🎓 **Licence ST – Transformation Digitale & SI** @ FST Settat (2025–2026)  
+🚀 Available for **PFE internship starting April 2026**
 
-- 🔭 Currently building **SmartWallet** — Flutter app + Spring Boot + Docker
-- 🤖 Created an **AI Recruitment Agent** with n8n, Groq (Llama 3) & Telegram API
-- 💡 Passionate about **mobile dev**, **backend architecture** & **AI automation**
-- 📍 Based in **Settat, Morocco**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Backend & Frontend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+🔥 Currently deep into:
+- **SmartWallet** — modern personal finance app (Flutter + Spring Boot + Docker)
+- AI automation workflows (n8n + Groq + LLMs)
+- Clean architecture & beautiful UIs
 
 ---
 
-## 🚀 Featured Projects
-
-| 🏷️ Project | 📝 Description | 🔧 Stack |
-|---|---|---|
-| 💰 **SmartWallet** | Cross-platform finance manager (PFE) | Flutter · Spring Boot · Docker |
-| 🤖 **AI Recruitment Agent** | Auto-applies & generates cover letters with AI | n8n · Groq (Llama 3) · Telegram |
-| 🎓 **UniqueLearn** | Training & enrollment full-stack web app | PHP · JS · MySQL |
-| 🏥 **Hospital Management** | OOP desktop app for patient management | Java · Swing |
-| 📚 **School Management** | Full CRUD academic admin app | Spring Boot · Thymeleaf · MySQL |
-
----
-
-
----
-
-## 🌐 Connect with Me
+### 🛠️ Tech Radar 2025–2026
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmae-hasker)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasker.asm@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmaeHaskar)
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,spring,nodejs,react,ts,postgres,mysql,mongodb,docker,git,github,figma&perline=8" alt="skills" />
 </div>
 
+<br/>
+
 <div align="center">
+  <!-- Neon / glass-like badges -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Groq_API-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" />
+</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+---
 
+### 🔥 Pinned Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>What it does</th>
+    </tr>
+    <tr>
+      <td><b>💰 SmartWallet</b></td>
+      <td>Flutter • Spring Boot • Docker • PostgreSQL</td>
+      <td>Modern cross-platform finance tracker (my PFE)</td>
+    </tr>
+    <tr>
+      <td><b>🤖 AI Recruitment Agent</b></td>
+      <td>n8n • Groq (Llama 3) • Telegram API</td>
+      <td>Automates job applications + cover letter generation</td>
+    </tr>
+    <tr>
+      <td><b>🎓 UniqueLearn</b></td>
+      <td>PHP • JavaScript • MySQL</td>
+      <td>Full-stack training & enrollment platform</td>
+    </tr>
+  </table>
+</div>
+
+→ More projects on my <a href="https://github.com/asmaeHaskar?tab=repositories">repositories</a>
+
+---
+
+### 📊 GitHub Activity (Live)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asmaeHaskar&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=8b5cf6&text_color=94a3b8&icon_color=c084fc" />
+    <img src="https://github-readme-stats.vercel.app/api?username=asmaeHaskar&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=7c3aed&text_color=475569&icon_color=8b5cf6" alt="stats" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asmaeHaskar&theme=radical&hide_border=true&background=0f172a&stroke=8b5cf6&ring=8b5cf6&fire=c084fc&currStreakNum=94a3b8&sideNums=94a3b8&currStreakLabel=8b5cf6&sideLabels=8b5cf6" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaeHaskar&theme=default&hide_border=true&background=f8fafc&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakNum=475569&sideNums=475569&currStreakLabel=7c3aed&sideLabels=7c3aed" alt="streak" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmaeHaskar&theme=react-dark&hide_border=true&bg_color=0f172a&color=8b5cf6&line=c084fc&point=94a3b8" alt="activity graph" width="80%" />
+</div>
+
+---
+
+### 🌐 Let's connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/asmae-hasker">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hasker.asm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/asmaeHaskar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=60,120,180,240,300&height=100&section=footer&%20animation=twinkling" alt="footer wave" />
 </div>
